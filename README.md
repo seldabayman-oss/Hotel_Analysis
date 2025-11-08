@@ -32,12 +32,10 @@ Guest Demographics and Behavior: Analyzed guest data to uncover key demographics
 
 Revenue Analysis: Visualized monthly and seasonal revenue trends to identify peak periods and revenue drivers.
 
-income5
-
 Hotel Performance Comparison: Compared multiple hotels' performance metrics to highlight top-performing properties and areas needing improvement.
 
 Reservation Patterns: Examined reservation data to understand booking patterns, cancellation rates, and the impact of different channels on overall occupancy.
 
-## 💡 These insights enable hotels to optimize their operations, tailor marketing efforts, and enhance guest experiences, ultimately driving growth and profitability.
+💡 These insights enable hotels to optimize their operations, tailor marketing efforts, and enhance guest experiences, ultimately driving growth and profitability.
 
 Stay tuned for more details on the project findings and interactive dashboards! 😊
